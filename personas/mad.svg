@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" role="img" aria-labelledby="mad-title mad-desc">
+  <title id="mad-title">MAD low poly persona</title>
+  <desc id="mad-desc">A playful low poly flat vector character for the MAD personality.</desc>
+  <ellipse cx="260" cy="574" rx="108" ry="22" fill="#cfd5df" opacity="0.72" />
+  <ellipse cx="260" cy="574" rx="78" ry="14" fill="#b8c1cd" opacity="0.45" />
+  <rect x="350" y="254" width="72" height="98" fill="#ffffff" rx="16" opacity="0.92" /><rect x="364" y="278" width="42" height="8" fill="#a0f4ff" rx="4" /><rect x="364" y="298" width="30" height="8" fill="#2a5667" rx="4" opacity="0.22" /><rect x="364" y="318" width="46" height="8" fill="#b1f6ff" rx="4" /><path d="M122 486c34-46 86-40 108 4M230 490l-18 8 8-18" fill="none" stroke="#a0f4ff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="0.28" />
+  <g transform="translate(238 372) rotate(-4) scale(1 1)"><polygon points="0,0 24,-2 28,64 10,114 -8,112 -12,58" fill="#346b81" /><polygon points="10,58 28,56 30,114 14,122 6,90" fill="#508093" /><polygon points="2,114 32,112 46,124 26,136 -4,132" fill="#dff1f5" /></g>
+  <g transform="translate(282 374) rotate(6) scale(-1 1)"><polygon points="0,0 24,-2 28,64 10,114 -8,112 -12,58" fill="#346b81" /><polygon points="10,58 28,56 30,114 14,122 6,90" fill="#508093" /><polygon points="2,114 32,112 46,124 26,136 -4,132" fill="#dff1f5" /></g>
+  <g transform="translate(210 274) rotate(-18) scale(1 1)"><polygon points="0,0 18,-8 38,44 22,54 -4,18" fill="#53c6d6" /><polygon points="20,42 38,36 58,90 36,102 18,60" fill="#72d0dd" /><polygon points="48,88 62,84 72,100 58,112 42,106" fill="#dfb79a" /></g>
+  <g transform="translate(260 286) rotate(2)"><polygon points="-62,-52 44,-58 70,18 24,112 -52,80 -72,14" fill="#53c6d6" /><polygon points="-62,-52 -8,-58 8,86 -52,80 -72,14" fill="#47aab8" /><polygon points="-10,-58 44,-58 70,18 24,112 8,86" fill="#72d0dd" /><polygon points="-28,-26 18,-42 34,8 -18,22" fill="#9aeaf5" /><polygon points="-18,-62 18,-62 12,-46 -10,-46" fill="#419ca9" /></g>
+  <g transform="translate(306 270) rotate(22) scale(-1 1)"><polygon points="0,0 18,-8 38,44 22,54 -4,18" fill="#53c6d6" /><polygon points="20,42 38,36 58,90 36,102 18,60" fill="#72d0dd" /><polygon points="48,88 62,84 72,100 58,112 42,106" fill="#f2c7a7" /></g>
+  <polygon points="238,214 282,214 286,248 238,248" fill="#dfb79a" />
+  <g transform="translate(260 160) rotate(-1)"><polygon points="-48,-22 -26,-58 18,-62 48,-26 42,26 6,60 -34,48 -54,8" fill="#f2c7a7" /><polygon points="-44,-12 -22,-50 0,-48 -2,52 -34,46 -50,10" fill="#dfb79a" /><polygon points="0,-48 18,-62 48,-26 42,26 6,60 -2,52" fill="#f3cdb0" /><polygon points="-56,-8 -40,-46 0,-68 38,-56 56,-8 26,-6 -10,12" fill="#2894b4" /><polygon points="0,-66 30,-54 20,-12 0,-2" fill="#7ed9ef" /><circle cx="-16" cy="-2" r="4.2" fill="#1b2742" /><circle cx="18" cy="-2" r="4.2" fill="#1b2742" /><polygon points="2,10 10,22 -4,24" fill="#c6a389" /><polygon points="-10,34 12,32 6,40 -6,40" fill="#b8977f" /></g>
+</svg>

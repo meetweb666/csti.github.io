@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" role="img" aria-labelledby="drag-title drag-desc">
+  <title id="drag-title">DRAG low poly persona</title>
+  <desc id="drag-desc">A playful low poly flat vector character for the DRAG personality.</desc>
+  <ellipse cx="260" cy="574" rx="108" ry="22" fill="#cfd5df" opacity="0.72" />
+  <ellipse cx="260" cy="574" rx="78" ry="14" fill="#b8c1cd" opacity="0.45" />
+  <rect x="318" y="330" width="128" height="18" fill="#3e4460" opacity="0.14" rx="9" /><rect x="318" y="330" width="76" height="18" fill="#b2b0ff" rx="9" /><rect x="394" y="330" width="24" height="18" fill="#ffffff" rx="9" opacity="0.94" /><polygon points="112,414 136,384 160,414 144,448" fill="#c0beff" /><polygon points="136,390 152,414 136,442 120,414" fill="#b2b0ff" />
+  <g transform="translate(238 372) rotate(12) scale(1 1)"><polygon points="0,0 24,-2 28,64 10,114 -8,112 -12,58" fill="#4d5578" /><polygon points="10,58 28,56 30,114 14,122 6,90" fill="#666d8b" /><polygon points="2,114 32,112 46,124 26,136 -4,132" fill="#dfe4f0" /></g>
+  <g transform="translate(284 378) rotate(-2) scale(-1 1)"><polygon points="0,0 24,-2 28,64 10,114 -8,112 -12,58" fill="#4d5578" /><polygon points="10,58 28,56 30,114 14,122 6,90" fill="#666d8b" /><polygon points="2,114 32,112 46,124 26,136 -4,132" fill="#dfe4f0" /></g>
+  <g transform="translate(208 276) rotate(6) scale(1 1)"><polygon points="0,0 18,-8 38,44 22,54 -4,18" fill="#7d76ff" /><polygon points="20,42 38,36 58,90 36,102 18,60" fill="#948fff" /><polygon points="48,88 62,84 72,100 58,112 42,106" fill="#deb494" /></g>
+  <g transform="translate(260 286) rotate(8)"><polygon points="-62,-52 44,-58 70,18 24,112 -52,80 -72,14" fill="#7d76ff" /><polygon points="-62,-52 -8,-58 8,86 -52,80 -72,14" fill="#6c65db" /><polygon points="-10,-58 44,-58 70,18 24,112 8,86" fill="#948fff" /><polygon points="-26,-56 0,-72 28,-56 14,-24 -12,-24" fill="#6c65db" /><polygon points="-10,-24 10,-24 20,12 -18,12" fill="#aba9f5" /><polygon points="-18,-62 18,-62 12,-46 -10,-46" fill="#635dc9" /></g>
+  <g transform="translate(308 278) rotate(58) scale(-1 1)"><polygon points="0,0 18,-8 38,44 22,54 -4,18" fill="#7d76ff" /><polygon points="20,42 38,36 58,90 36,102 18,60" fill="#948fff" /><polygon points="48,88 62,84 72,100 58,112 42,106" fill="#f1c4a1" /></g>
+  <polygon points="238,214 282,214 286,248 238,248" fill="#deb494" />
+  <g transform="translate(260 160) rotate(7)"><polygon points="-48,-22 -26,-58 18,-62 48,-26 42,26 6,60 -34,48 -54,8" fill="#f1c4a1" /><polygon points="-44,-12 -22,-50 0,-48 -2,52 -34,46 -50,10" fill="#deb494" /><polygon points="0,-48 18,-62 48,-26 42,26 6,60 -2,52" fill="#f2caaa" /><polygon points="-58,-2 -44,-52 -6,-70 36,-60 58,-8 24,-8 8,18 -20,8" fill="#6a68a6" /><polygon points="-20,-66 18,-56 6,-6 -20,0" fill="#9b97d8" /><circle cx="-16" cy="-2" r="4.2" fill="#1b2742" /><circle cx="18" cy="-2" r="4.2" fill="#1b2742" /><polygon points="2,10 10,22 -4,24" fill="#c6a184" /><polygon points="-10,34 12,32 6,40 -6,40" fill="#b7957a" /></g>
+</svg>

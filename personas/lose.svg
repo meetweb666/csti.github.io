@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" role="img" aria-labelledby="lose-title lose-desc">
+  <title id="lose-title">LOSE low poly persona</title>
+  <desc id="lose-desc">A playful low poly flat vector character for the LOSE personality.</desc>
+  <ellipse cx="260" cy="574" rx="108" ry="22" fill="#cfd5df" opacity="0.72" />
+  <ellipse cx="260" cy="574" rx="78" ry="14" fill="#b8c1cd" opacity="0.45" />
+  <polygon points="392,218 458,238 418,262 402,308" fill="#def2ff" /><polygon points="392,218 428,244 402,308 410,258" fill="#d7efff" />
+  <g transform="translate(238 374) rotate(12) scale(1 1)"><polygon points="0,0 24,-2 28,64 10,114 -8,112 -12,58" fill="#4c77a8" /><polygon points="10,58 28,56 30,114 14,122 6,90" fill="#658ab4" /><polygon points="2,114 32,112 46,124 26,136 -4,132" fill="#e8f3fb" /></g>
+  <g transform="translate(282 372) rotate(-8) scale(-1 1)"><polygon points="0,0 24,-2 28,64 10,114 -8,112 -12,58" fill="#4c77a8" /><polygon points="10,58 28,56 30,114 14,122 6,90" fill="#658ab4" /><polygon points="2,114 32,112 46,124 26,136 -4,132" fill="#e8f3fb" /></g>
+  <g transform="translate(212 274) rotate(16) scale(1 1)"><polygon points="0,0 18,-8 38,44 22,54 -4,18" fill="#8eb8ff" /><polygon points="20,42 38,36 58,90 36,102 18,60" fill="#a2c5ff" /><polygon points="48,88 62,84 72,100 58,112 42,106" fill="#dfb79b" /></g>
+  <g transform="translate(260 286) rotate(9)"><polygon points="-62,-52 44,-58 70,18 24,112 -52,80 -72,14" fill="#8eb8ff" /><polygon points="-62,-52 -8,-58 8,86 -52,80 -72,14" fill="#7a9edb" /><polygon points="-10,-58 44,-58 70,18 24,112 8,86" fill="#a2c5ff" /><polygon points="-28,-26 18,-42 34,8 -18,22" fill="#cee5f5" /><polygon points="-18,-62 18,-62 12,-46 -10,-46" fill="#7091c9" /></g>
+  <g transform="translate(308 276) rotate(-12) scale(-1 1)"><polygon points="0,0 18,-8 38,44 22,54 -4,18" fill="#8eb8ff" /><polygon points="20,42 38,36 58,90 36,102 18,60" fill="#a2c5ff" /><polygon points="48,88 62,84 72,100 58,112 42,106" fill="#f2c7a8" /></g>
+  <polygon points="238,214 282,214 286,248 238,248" fill="#dfb79b" />
+  <g transform="translate(260 160) rotate(5)"><polygon points="-48,-22 -26,-58 18,-62 48,-26 42,26 6,60 -34,48 -54,8" fill="#f2c7a8" /><polygon points="-44,-12 -22,-50 0,-48 -2,52 -34,46 -50,10" fill="#dfb79b" /><polygon points="0,-48 18,-62 48,-26 42,26 6,60 -2,52" fill="#f3cdb1" /><polygon points="-58,-4 -20,-62 22,-68 62,-32 46,-4 18,-16 -12,4" fill="#5d8bff" /><polygon points="4,-66 40,-36 18,-4 0,-10" fill="#9cd0ff" /><circle cx="-16" cy="-2" r="4.2" fill="#1b2742" /><circle cx="18" cy="-2" r="4.2" fill="#1b2742" /><polygon points="2,10 10,22 -4,24" fill="#c6a38a" /><polygon points="-10,34 12,32 6,40 -6,40" fill="#b89780" /></g>
+</svg>
